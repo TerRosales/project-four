@@ -84,7 +84,7 @@
   
   .hero-img {
     position: absolute;
-    background-image: url("https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/366697811_23865984369666686_2656996659995469816_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=49d041&_nc_ohc=v6hgJjUjg60AX8bVCeR&_nc_ht=scontent-ord5-2.xx&oh=00_AfDo-KY_XFbv8jYf-fPib7tIWfLJEyf_Q7moM-g8LT5j2A&oe=65049940");
+    background-image: url("assets/HotaroHero.png");
     text-align: center;
     background-repeat: no-repeat;
     background-position: center;
@@ -373,7 +373,7 @@
   
   .profile-img {
     filter: grayscale(100%);
-    background: url("https://scontent-ord5-2.xx.fbcdn.net/v/t1.6435-9/67242248_3094127040612389_7131951503207563264_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=0240d4wXI1UAX-R4OQT&_nc_ht=scontent-ord5-2.xx&oh=00_AfCZ7Q9T9pbYYMolHU-CRCYJP89MXA_dHaDCZw6Kz5ixzg&oe=650527D9");
+    background: url("assets/gym-rat2.jpg");
     background-repeat: none;
     background-position: top center;
     background-size: fill;
